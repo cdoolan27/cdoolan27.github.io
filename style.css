@@ -1,1 +1,26 @@
+header { 
+  height: 60px;
+  background: slateblue;
+  text-align: right;
+  color: white;
+}
 
+body {
+  background: black;
+  color: yellow;
+}
+
+img {
+  height: 400px;
+  border: 5px dashed red;
+  float: left;
+  margin-right: 30p;
+}
+
+p {
+  color: lightblue;
+}
+
+li {
+  color: green;
+}
